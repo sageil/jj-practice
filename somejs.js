@@ -5,3 +5,7 @@ function greet(name) {
 function farewell(name) {
   console.log("Goodbye, " + name + "!");
 }
+
+function thankYou(name) {
+  console.log("Thank you, " + name + "!");
+}
